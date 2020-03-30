@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(laptop.jpg);
+    background-position: 50%,50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: green;
+    min-height: 100vh;
+
+
+
+
+}
+
+li{
+    list-style-type: none;
+    padding: 10px;
+    display: inline;
+    margin: auto 10px;
+}
+
+
+a{
+    text-decoration-line: none;
+    color: red;
+}
+
+ul.nav-list{
+    float: right;
+    padding-right: 10px;
+    
+}
+#site-header{
+    display: inline
+}
+.marry{
+    padding: 8px;
+    color: blue;
+}
+.nav-list a{
+    color: green;
+}
+.hero-image{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    }
+    .myself{
+        font-family:  fantasy;
+        padding: 10px;
+    }
